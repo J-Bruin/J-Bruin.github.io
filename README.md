@@ -41,6 +41,6 @@ To make this simple, you can write the report using a word processor or Latex, t
 
 ### Code
 
-My code: [Right here.](/assets/Final_Project.ipynb)
+My code: [Right here.](/assets/Final_Project.ipynb) https://github.com/J-Bruin/J-Bruin.github.io/blob/main/assets/Final_Project.ipynb
 
 A link to your code must be submitted on BruinLearn, and the course instructor must be able to download your code to mark it. The code could be in a Google Colab notebook (make sure to *share* the notebook so access is set to **Anyone with the link**), or you could upload the code into a separate GitHub repository, or you could upload the code into the `assets` directory of your website and link to it. 
