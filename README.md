@@ -33,7 +33,7 @@ Your final project is delivered in two components: a report and your code.
 
 ### Report
 
-My report: [Right here.](/assets/Final Project - Justin Casillas.pdf)
+My report: [Right here.](/assets/Final Project - Justin Casillas.pdf) https://github.com/J-Bruin/J-Bruin.github.io/blob/main/assets/Final%20Project%20-%20Justin%20Casillas.pdf
 
 Your report should be **delivered via your website**. Submit a link to your website on BruinLearn so that your instructor can browse it to find your report. 
 
